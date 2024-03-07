@@ -1,0 +1,12 @@
+{
+  "name": "hurnegyter",
+  "version": "1.0.0",
+  "description": "húrnégyszög terület számitás",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["húrnégyszög", "terület", "kör", "négyszög"],
+  "author": "Szamosfalvi Szonja",
+  "license": "ISC"
+}
